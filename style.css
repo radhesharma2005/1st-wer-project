@@ -100,3 +100,9 @@ img{
     bottom: 8%;
     right: 8px;
 }
+h6{
+    display: flex;
+    text-align: end;
+    position: absolute;
+    bottom: 1%
+}
